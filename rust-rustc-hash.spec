@@ -7,7 +7,7 @@
 %global crate rustc-hash
 
 Name:           rust-rustc-hash
-Version:        2.1.1
+Version:        2.1.3
 Release:        1
 Summary:        Speedy, non-cryptographic hashing algorithm used by rustc
 Group:          Development/Rust
